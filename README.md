@@ -1,2 +1,1 @@
-# Winrar.Cracker
-can we crack winrar pass with this>>>>>>>>>>>>>>;
+# Winrar.Crackersimple zip archive dictionary attack written in batch
